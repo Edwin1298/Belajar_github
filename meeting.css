@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+p {
+     text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+}
+sub {
+    font-size: 50px;
+    font-size: normal;
+    color: red;
+    font-family: fantasy;
+}
+
+
